@@ -188,7 +188,6 @@ code {
     margin: -0.1em 0.15em;
     padding: 0.1em 0.2em;
     vertical-align: baseline;
-    color: var(--dracula-green);
 }
 
 pre {
@@ -280,7 +279,7 @@ section mark {
 
 section code {
     background: var(--dracula-current-line);
-    color: var(--dracula-current-green);
+    color: var(--dracula-green);
 }
 
 section h1 strong,

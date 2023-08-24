@@ -82,13 +82,14 @@
 }
 
 /* Dracula Red */
+.hljs-string,
+.hljs-name,
 .hljs-regexp {
     color: var(--dracula-red);
 }
 
 /* Dracula Yellow */
-.hljs-string,
-.hljs-name,
+
 .hljs-type,
 .hljs-attr,
 .hljs-symbol,

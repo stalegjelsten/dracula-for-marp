@@ -10,7 +10,7 @@
  * @size 16:9 1280px 720px
  */
 
-@import url("https://fonts.googleapis.com/css?family=Lato:400,900|IBM+Plex+Sans:400,700");
+@import url("https://fonts.googleapis.com/css?family=Lato:400,900|IBM+Plex+Mono:400,700|IBM+Plex+Sans:400,700");
 
 :root {
     --dracula-background: #282a36;
@@ -181,7 +181,9 @@ ol>li>p {
 code {
     display: inline-block;
     font-family: "IBM Plex Mono", monospace;
-    font-size: 0.8em;
+    color: var(--dracula-red);
+    font-weight: 700;
+    font-size: 1.1em;
     letter-spacing: 0;
     margin: -0.1em 0.15em;
     padding: 0.1em 0.2em;

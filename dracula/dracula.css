@@ -30,6 +30,7 @@
     display: block;
     overflow-x: auto;
     padding: 0.5em;
+    font-size: 36pt;
     background: var(--dracula-background);
 }
 

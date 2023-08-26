@@ -51,6 +51,7 @@
 
 /* Dracula Cyan */
 .hljs-meta .hljs-doctag,
+.hljs-string,
 .hljs-built_in,
 .hljs-selector-tag,
 .hljs-section,
@@ -79,7 +80,6 @@
 /* Dracula Purple */
 .hljs-literal,
 .hljs-type,
-.hljs-string,
 .hljs-number {
     color: var(--dracula-purple);
 }
@@ -171,7 +171,6 @@ blockquote {
 ul>li,
 ol>li {
     margin: 0.3em 0 0 0;
-    color: var(--dracula-cyan);
 }
 
 ul>li>p,

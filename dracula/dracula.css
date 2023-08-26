@@ -77,12 +77,14 @@
 
 /* Dracula Purple */
 .hljs-literal,
+.hljs-type,
+.hljs-attr,
+.hljs-symbol,
 .hljs-number {
     color: var(--dracula-purple);
 }
 
 /* Dracula Red */
-.hljs-string,
 .hljs-name,
 .hljs-regexp {
     color: var(--dracula-red);
@@ -90,9 +92,7 @@
 
 /* Dracula Yellow */
 
-.hljs-type,
-.hljs-attr,
-.hljs-symbol,
+.hljs-string,
 .hljs-bullet,
 .hljs-addition,
 .hljs-template-tag {

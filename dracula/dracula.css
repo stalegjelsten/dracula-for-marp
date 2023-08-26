@@ -30,7 +30,6 @@
     display: block;
     overflow-x: auto;
     padding: 0.5em;
-    font-size: 36pt;
     background: var(--dracula-background);
 }
 
@@ -184,7 +183,7 @@ code {
     font-family: "IBM Plex Mono", monospace;
     color: var(--dracula-green);
     font-weight: 700;
-    font-size: 36pt;
+    font-size: 24pt;
     letter-spacing: 0;
     margin: -0.1em 0.15em;
     padding: 0.1em 0.2em;
@@ -203,7 +202,6 @@ pre code {
     margin: 0;
     min-width: 100%;
     padding: 0.5em;
-    font-size: 0.7em;
 }
 
 pre code svg[data-marp-fitting=svg] {

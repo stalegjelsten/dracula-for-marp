@@ -37,6 +37,7 @@
 .hljs,
 .hljs-subst,
 .hljs-typing,
+.hljs-symbol,
 .hljs-variable,
 .hljs-template-variable {
     color: var(--dracula-foreground);
@@ -62,7 +63,6 @@
 
 
 /* Dracula Green */
-.hljs-symbol,
 .hljs-title {
     color: var(--dracula-green);
 }

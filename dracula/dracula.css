@@ -26,22 +26,12 @@
     --dracula-yellow: #f1fa8c;
     --dracula-gradient: linear-gradient(65deg,
             hsl(297deg 85% 49%) 0%,
-            hsl(295deg 71% 57%) 5%,
-            hsl(291deg 58% 60%) 10%,
-            hsl(285deg 45% 62%) 14%,
-            hsl(271deg 30% 64%) 18%,
-            hsl(231deg 18% 63%) 22%,
-            hsl(182deg 19% 56%) 26%,
-            hsl(161deg 34% 53%) 30%,
-            hsl(155deg 53% 48%) 34%,
-            hsl(156deg 55% 48%) 38%,
-            hsl(161deg 36% 52%) 43%,
-            hsl(178deg 22% 54%) 48%,
-            hsl(215deg 20% 60%) 53%,
-            hsl(259deg 27% 63%) 59%,
-            hsl(277deg 40% 61%) 66%,
-            hsl(286deg 53% 59%) 75%,
-            hsl(291deg 65% 56%) 85%,
+            hsl(289deg 52% 61%) 10%,
+            hsl(240deg 18% 64%) 17%,
+            hsl(158deg 38% 52%) 24%,
+            hsl(159deg 40% 51%) 33%,
+            hsl(222deg 20% 61%) 47%,
+            hsl(283deg 47% 60%) 68%,
             hsl(294deg 81% 49%) 100%);
 }
 

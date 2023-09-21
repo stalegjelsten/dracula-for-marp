@@ -144,6 +144,7 @@ h6 {
     /* color: var(--dracula-pink); */
     background-image: var(--dracula-gradient);
     background-clip: text;
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 

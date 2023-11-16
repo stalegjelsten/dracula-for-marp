@@ -43,6 +43,17 @@
   );
 }
 
+section.tittel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+section.tittel h1 {
+  font-size: 4em;
+  text-align: center;
+}
+
 .hljs {
   display: block;
   overflow-x: auto;

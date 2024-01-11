@@ -13,13 +13,13 @@
 @import url("https://fonts.googleapis.com/css?family=Lato:400,900|IBM+Plex+Mono:400,700|IBM+Plex+Sans:400,700");
 
 :root {
-  /* --dracula-background: #282a36; */
-  --dracula-background: linear-gradient(
+  --dracula-background: #282a36;
+  /* --dracula-background: linear-gradient(
     20deg,
     hsl(270deg, 50%, 15%) -5.9%,
     hsl(210deg, 50%, 5%) 65%,
     hsl(170deg, 50%, 12%) 112%
-  );
+  ); */
   --dracula-current-line: #44475a;
   --dracula-foreground: #f8f8f2;
   --dracula-comment: #8da2e6;
@@ -158,10 +158,10 @@ h5,
 h6 {
   margin: 0.5em 0 0 0;
   color: var(--dracula-pink);
-  background-image: var(--dracula-gradient);
+  /* background-image: var(--dracula-gradient);
   background-clip: text;
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: transparent; */
 }
 
 h1 strong,
